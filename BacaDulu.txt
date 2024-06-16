@@ -1,0 +1,11 @@
+Saya menggunakan npm untuk menjalankan aplikasi ini, 
+dan untuk menjalankan aplikasi ini dapat digunakan melalui CLI/Terminal.
+
+dengan mengetik "npm run dev".
+
+untuk DATABASE menggunakan pokeapi.co dikarenakan lebih enak digunakan dan lebih gampang.
+
+Aplikasi yang digunakan :
+- Visual Studio Code.
+- GitBash/Terminal.
+- Node.js.
